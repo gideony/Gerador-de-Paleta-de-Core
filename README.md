@@ -1,2 +1,2 @@
-# Gerador-de-Paleta-de-Core
+# Gerador-de-Paleta-de-Cores
 simples e pratico
